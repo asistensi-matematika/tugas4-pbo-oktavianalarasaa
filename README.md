@@ -1,8 +1,8 @@
 # TUGAS 4 ASISTENSI PBO - Jumat, 11 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: OKTAVIANA LARASATI
 
-NRP: `isi nrp disini`
+NRP: 06111840000107
 
 ## Deskripsi Tugas
 
@@ -32,7 +32,12 @@ NRP: `isi nrp disini`
 **catatan** \
  ```asumsikan merupakan segitiga sama sisi```
 ## Screenshot hasil
-masukkan screenshot output disini
+
+
+![Screenshot (31)](https://user-images.githubusercontent.com/49663453/67075541-90aad480-f1b5-11e9-9930-0ff6341d146e.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/49663453/67075546-91436b00-f1b5-11e9-9797-78a191a3da93.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/49663453/67075540-90123e00-f1b5-11e9-87c5-1f853eaa3ad0.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/49663453/67075539-90123e00-f1b5-11e9-9ad9-faf05245c079.png)
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
